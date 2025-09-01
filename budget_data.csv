@@ -1,0 +1,9 @@
+date,type,category,amount
+2025-09-01 21:43:13,income,salary,1500.0
+2025-09-01 21:43:46,expense,bills,30.0
+2025-09-01 21:45:27,income,salary,1500.0
+2025-09-01 21:55:04,income,transport,1500.0
+2025-09-01 21:55:14,expense,bills,500.0
+2025-09-01 22:25:53,income,Food,40.0
+2025-09-01 22:31:01,income,Salary,1500.0
+2025-09-01 22:31:23,expense,Entertainment,20.0
